@@ -7,7 +7,7 @@ Repository for my ACCU 2023 presentations.
 
 * [Slides](https://github.com/vittorioromeo/accu2023/blob/main/improving_compilation_times.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=PfHD3BsVsAM)
 
 ## Emplacing `std::array` is impossible
 
